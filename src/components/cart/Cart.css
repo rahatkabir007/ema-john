@@ -1,0 +1,26 @@
+.cart-details{
+    position: fixed;
+}
+.cart {
+    text-align: center;
+}
+
+.order-details {
+    font-size: 13px;
+    text-align: left;
+    position: fixed;
+}
+
+.order-details tr td {
+    padding-right: 20px;
+}
+
+.total-row {
+    color: #b12704;
+    font-size: 17px;
+    font-weight: 700;
+}
+#review-button{
+    position: fixed;
+    margin-top: 15px;
+}
